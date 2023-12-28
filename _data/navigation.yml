@@ -5,8 +5,8 @@ main:
    - title: "Harrastajille"
     url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "Seuroille"
-     url: /year-archive/
+    url: /year-archive/
    - title: "Liitto"
-     url: /collection-archive/
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
