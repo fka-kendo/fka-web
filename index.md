@@ -4,32 +4,31 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/BW-4824.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-play'></i> Aloita uusi harrastus"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Kendoliitto on Suomessa toimivien aselajien kendon, iaidon, jodon, naginatan ja sports chanbaran kattojärjestön. Liiton lajit tarjoavat monipuolista liikuntaa lapsille, nuorille, ja aikuisille läpi elämän. Liitto on perustettu vuonna 1986 ja siihen kuuluu yli 30 jäsenseuraa, joissa on lähes 1 000 harrastajaa. 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/leijona.jpg
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Kendon junioreiden SM-kisat"
+    excerpt: "Kendon junioreiden SM-kisat järjestetään Kotkassa 6.-8.3."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/leijona.jpg
+    alt: "Kendon aikuisten SM-kisat"
+    title: "Kendon aikuisten SM-kisat"
+    excerpt: "Kendon aikuisten SM-kisat järjestetään Espoossa 6.-8.2."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/Kevätleiri-kaikki-yhdessä-v2.png
+    alt: "Kevätleiri 2024"
+    title: "Kevätleiri 2024"
+    excerpt: "Kevätleiri 2024 järjestetään 4.-6.4. Jyväskylässä."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
