@@ -11,7 +11,7 @@ locale: "fi"
 
 Kendo on moderni budolaji, joka pohjautuu japanilaiseen miekkailuperinteeseen. Siinä käytetään bambumiekkaa, shinaia, hyökkäyksiin päähän, ranteeseen, kylkeen ja kurkkuun. Kendo opettaa perinteisiä miekkailumenetelmiä kehittäen harjoittajan mieltä ja kehoa. Lajilla on pitkä historia, ja se perustuu samuraiden koulutukseen ja Bushidon käsitteeseen.Kendo vaatii päättäväisyyttä ja henkistä vahvuutta. Tehokas käytännön harjoittelu on keskeistä, ja onnistunut suoritus vaatii hyvää ajoitusta ja etäisyyden hallintaa.
 
-<iframe width="100%" src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Iaido
 
@@ -21,7 +21,7 @@ Meiji-restauraation myötä samurailuokka väheni, mutta iaido säilyi. Vuonna 1
 
 ZNKR iaido on avoin kaikille ja tarjoaa mahdollisuuksia oppia eri tyyleiltä. Suomessa iaidoa harjoitellaan useissa kaupungeissa. Aluksi iaidon opiskelun jälkeen monet syventävät taitoaan vanhoilla koulukunnilla, kuten Muso Shinden Ryu ja Muso Jikiden Eishin Ryu.
 
-<iframe width="100%" src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Jodo
 
@@ -29,7 +29,7 @@ Jodo on moderni budolaji, jota harjoitellaan 128 cm pitkällä jo-sauvalla perus
 
 Jodossa korostuu liikkeiden tarkka hallinta ja kontaktin säätely. Harjoittelussa käytetään perustekniikkaharjoituksia, joista 12 on yksilö- ja 12 pariharjoituksia. Suomen kendoliitto lisäsi jodon lajivalikoimaansa vuonna 2002.
 
-<iframe width="100%" src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Naginata
 
@@ -39,7 +39,7 @@ Atarashii Naginatan harjoitteluun kuuluu muodollinen kata pariharjoituksena koko
 
 Atarashii Naginatan harjoittelu alkoi Helsingissä vuonna 2009, ja Suomen Kendoseurojen Keskusliitto on vakiinnuttanut lajin aseman Suomessa. Seurat harjoittelevat standardisoitua Atarashii Naginataa, ja Suomen kendoliitto kannustaa myös klassisten koulukuntien harjoitteluun, kuten Jikishinkageryu Naginatajutsuun ja Suio-ryu Iai Kenpoon.
 
-<iframe width="100%" src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Sports Chanbara
 
@@ -47,4 +47,4 @@ Sports Chanbara on japanilainen miekkailulaji, joka kehitettiin Japanissa vuonna
 
 Sports Chanbarassa korostuvat kohteliaat käytöstavat, vastustajan kunnioitus ja tarkoituksellisten hyökkäysten merkitys. Laji rantautui Suomeen vuonna 2015 ja hyväksyttiin Suomen Kendoliiton lajivalikoimaan vuonna 2019. Suomessa harjoitellaan Porin ja Kotkan kendoseuroissa, ja kansainvälisiä kilpailuja järjestetään EM- ja MM-tasolla.
 
-<iframe width="100%" src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/njO8ccMyNq0?si=Bd4A3It8WnU4xsPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
