@@ -11,7 +11,7 @@ locale: fi
 
 Kendo on moderni budolaji, joka pohjautuu japanilaiseen miekkailuperinteeseen. Siinä käytetään bambumiekkaa, shinaia, hyökkäyksiin päähän, ranteeseen, kylkeen ja kurkkuun. Kendo opettaa perinteisiä miekkailumenetelmiä kehittäen harjoittajan mieltä ja kehoa. Lajilla on pitkä historia, ja se perustuu samuraiden koulutukseen ja Bushidon käsitteeseen.Kendo vaatii päättäväisyyttä ja henkistä vahvuutta. Tehokas käytännön harjoittelu on keskeistä, ja onnistunut suoritus vaatii hyvää ajoitusta ja etäisyyden hallintaa.
 
- {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=njO8ccMyNq0" frameborder="0" allowfullscreen></iframe>
 
 # Iaido
 
