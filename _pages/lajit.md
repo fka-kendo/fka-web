@@ -21,11 +21,15 @@ Meiji-restauraation myötä samurailuokka väheni, mutta iaido säilyi. Vuonna 1
 
 ZNKR iaido on avoin kaikille ja tarjoaa mahdollisuuksia oppia eri tyyleiltä. Suomessa iaidoa harjoitellaan useissa kaupungeissa. Aluksi iaidon opiskelun jälkeen monet syventävät taitoaan vanhoilla koulukunnilla, kuten Muso Shinden Ryu ja Muso Jikiden Eishin Ryu.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CHB7AFX66T8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Jodo
 
 Jodo on moderni budolaji, jota harjoitellaan 128 cm pitkällä jo-sauvalla perustuen Shindo Muso ryun jo-opetukseen. Jodo erottuu ZNKR kendosta ja iaidosta, jotka perustuvat useamman vanhan koulukunnan tekniikoihin. Shimizu Takaji muutti jodoksi jojutsun, kepin tien, vuonna 1940. ZNKR jodo hyväksyttiin Japanin kendoliiton lajivalikoimaan vuonna 1969.
 
 Jodossa korostuu liikkeiden tarkka hallinta ja kontaktin säätely. Harjoittelussa käytetään perustekniikkaharjoituksia, joista 12 on yksilö- ja 12 pariharjoituksia. Suomen kendoliitto lisäsi jodon lajivalikoimaansa vuonna 2002.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Rff6-F27T5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Naginata
 
@@ -34,6 +38,8 @@ Atarashii Naginata on japanilainen budolaji, jossa käytetään naginataa eli ja
 Atarashii Naginatan harjoitteluun kuuluu muodollinen kata pariharjoituksena kokopuisella aseella, katayou naginatalla. Kilpailla voi kahdella tavalla: Engi-kyougissa arvioidaan tekniikoiden osaamista ja Shiai-kyougissa otellaan suojavarusteissa kahden pisteen voitosta. Lisäksi on epävirallinen kilpailumuoto, rytminen Naginata, jossa ryhmä esittää liikkeitä musiikin tahtiin.
 
 Atarashii Naginatan harjoittelu alkoi Helsingissä vuonna 2009, ja Suomen Kendoseurojen Keskusliitto on vakiinnuttanut lajin aseman Suomessa. Seurat harjoittelevat standardisoitua Atarashii Naginataa, ja Suomen kendoliitto kannustaa myös klassisten koulukuntien harjoitteluun, kuten Jikishinkageryu Naginatajutsuun ja Suio-ryu Iai Kenpoon.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=62XsKcyUiag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Sports Chanbara
 
