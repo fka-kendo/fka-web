@@ -4,12 +4,12 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/BW-4824.jpg
+  overlay_image: /assets/images/fka-right.PNG
   actions:
     - label: "<i class='fas fa-play'></i> Aloita uusi harrastus"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Kendoliitto on Suomessa toimivien japanilaisten aselajien kendon, iaidon, jodon, naginatan ja sports chanbaran kattojärjestö. Liiton lajit tarjoavat monipuolista liikuntaa lapsille, nuorille, ja aikuisille läpi elämän. Liitto on perustettu vuonna 1986 ja siihen kuuluu yli 20 jäsenseuraa ja lähes 1000 harrastajaa. 
+  Kendoliitto on Suomessa toimivien japanilaisten aselajien <a href="kendo">kendon</a>, <a href="iaido">iaidon</a>, <a href="jodo">jodon</a>, <a href="naginata">naginatan</a> ja <a href="sportchan">sports chanbaran</a> kattojärjestö. Liiton lajit tarjoavat monipuolista liikuntaa lapsille, nuorille, ja aikuisille läpi elämän. Liitto on perustettu vuonna 1986 ja siihen kuuluu yli 20 jäsenseuraa ja lähes 1000 harrastajaa. 
 feature_row:
   - image_path: /assets/images/leijona.jpg
     alt: "customizable"
