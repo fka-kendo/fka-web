@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Lajit"
+   - title: "Lajit"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Harrastajille"
     url: https://mmistakes.github.io/minimal-mistakes/about/
