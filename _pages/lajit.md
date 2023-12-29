@@ -10,6 +10,8 @@ layout: single
 
 Kendo on moderni budolaji, joka pohjautuu japanilaiseen miekkailuperinteeseen. Siinä käytetään bambumiekkaa, shinaia, hyökkäyksiin päähän, ranteeseen, kylkeen ja kurkkuun. Kendo opettaa perinteisiä miekkailumenetelmiä kehittäen harjoittajan mieltä ja kehoa. Lajilla on pitkä historia, ja se perustuu samuraiden koulutukseen ja Bushidon käsitteeseen.Kendo vaatii päättäväisyyttä ja henkistä vahvuutta. Tehokas käytännön harjoittelu on keskeistä, ja onnistunut suoritus vaatii hyvää ajoitusta ja etäisyyden hallintaa.
 
+ {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
+
 # Iaido
 
 Iaido, japanilaisen miekkailuperinteen taito, korostaa miekan vetämistä ja leikkaavaa lyöntiä. Sanan "iai" juuret liittyvät valmiuteen jokaiseen tilanteeseen. Hayashizaki Shinsuke Shigenobu kehitti iaidon 1500-luvulla, voittaen taitavan vastustajansa kekseliäällä tyylillä. Tämä synnytti Hayashizaki Ryun ja muita iaijutsu-kouluja.
